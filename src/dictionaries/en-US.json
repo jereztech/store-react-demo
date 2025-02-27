@@ -1,0 +1,19 @@
+{
+    "Carousel": {
+        "slide1": "New Arrivals Are In!",
+        "slide1-desc": "Discover the latest electronics and exclusive trends this Summer.",
+        "slide1-cta": "Shop Now",
+        "slide2": "30% Off Sale",
+        "slide2-desc": "Don't miss our limited-time discount on footwear. Offer valid until August 15.",
+        "slide2-cta": "Grab the Deal",
+        "slide3": "Discover Our Fall Favorites",
+        "slide3-desc": "Explore specially curated autumn apparel that perfectly matches your style this Fall.",
+        "slide3-cta": "Browse Collection",
+        "previous": "Previous",
+        "next": "Next"
+    },
+    "Navigation": {
+        "back-to-top": "Back to Top",
+        "search": "Search"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "Carousel": {
+        "slide1": "¡Ya llegaron los nuevos productos!",
+        "slide1-desc": "Descubre los últimos productos electrónicos y las tendencias exclusivas de este verano.",
+        "slide1-cta": "Compra ahora",
+        "slide2": "30 % de descuento en oferta",
+        "slide2-desc": "No te pierdas nuestro descuento por tiempo limitado en calzado. Oferta válida hasta el 15 de agosto.",
+        "slide2-cta": "Aprovecha la oferta",
+        "slide3": "Descubre nuestros favoritos de otoño",
+        "slide3-desc": "Explora prendas de otoño especialmente seleccionadas que combinan perfectamente con tu estilo este otoño.",
+        "slide3-cta": "Explora la colección",
+        "previous": "Anterior",
+        "next": "Siguiente"
+    },
+    "Navigation": {
+        "back-to-top": "Volver al Inicio",
+        "search": "Buscar"
+    }
+}
