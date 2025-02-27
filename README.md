@@ -1,6 +1,6 @@
 # Store React Demo
 
-This repository provides a simple live demo showcasing the usage of [@jereztech/i18n-react](https://github.com/jereztech/i18n-react) and [@jereztech/react-elements](https://github.com/jereztech/react-elements) in a React application.
+This repository provides a simple [live demo](https://jereztech.github.io/store-react-demo) showcasing the usage of [@jereztech/i18n-react](https://github.com/jereztech/i18n-react) and [@jereztech/react-elements](https://github.com/jereztech/react-elements) in a React application.
 
 ## Features
 
